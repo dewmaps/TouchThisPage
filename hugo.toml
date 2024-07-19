@@ -1,3 +1,56 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Touch This Page! Making Sense of the Ways We Read"
+baseURL = "https://touchthispage.com"
+languageCode = "en-us"
+theme = 'ananke'
+# resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 8 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+# [languages]
+#   [languages.en]
+#     title = "Ananke"
+#    weight = 1
+#    contentDir = "content/en"
+#    # languageDirection = 'rtl' for Right-To-Left languages
+#  [languages.fr]
+#    title = "Ananke Fr"
+#    weight = 2
+#    contentDir = "content/fr"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = "black"
+  author = ""
+  favicon = ""
+  site_logo = "img/Touch_This_Page_3d.png"
+  description = "Welcome to the *Touch This Page!* An exhibition on multisensory experiences of reading"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 0
+
+[[params.ananke_socials]]
+name = ""
+url = ""
+
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Exhibition'
+    pageRef = '/exhibition/'
+    weight = 20
+  [[menus.main]]
+    name = 'Downloads'
+    pageRef = '/downloads'
+    weight = 30
