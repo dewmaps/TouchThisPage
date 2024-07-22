@@ -6,7 +6,7 @@ Is Howe a hero or a villain? Or, is the question more complicated? What lessons 
 
 *The sketchfab interface below contains additional hidden links picked up by screen readers. The starting element is a link and ending element is the text "to rotate."*
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Map of Massachusetts" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/fd5710465f05457fa9f257b1faff46af/embed?camera=0"> </iframe> </div>
+{{< sketchfab "https://sketchfab.com/models/fd5710465f05457fa9f257b1faff46af/embed?camera=0" >}}
 
 ## Description of the Map of Massachusetts
 
@@ -20,4 +20,4 @@ After graduating from Perkins, Harriet Gamage returned to her family in New Orle
 
 “As I am in a great measure indebted to your noble institution for the faculties I may enjoy I will name the branches I am at present imparting. Reading, Spelling, Arithmetic, History, Geography, the maps, such as the seeing use, which I am enabled to explain from a retentive memory, and a reference to my own which are so beautifully embossed.”
 
-Up next: The Cost of Success 
+Up next: [The Cost of Success]({{< relref "/pages/panel5">}}) 

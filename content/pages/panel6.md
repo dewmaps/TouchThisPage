@@ -6,7 +6,7 @@ Among our senses, touch, it turns out, is the most broadly accessible—used by 
 
 *The sketchfab interface below contains additional hidden links picked up by screen readers. The starting element is a link and ending element is the text "to rotate."*
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Section of "To be or not to be" from Hamlet" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/95eeba004773450099460c6a0a8ac783/embed?camera=0"> </iframe> </div>
+{{< sketchfab "https://sketchfab.com/models/95eeba004773450099460c6a0a8ac783/embed?camera=0" >}}
 
 ## Description of Hamlet
 

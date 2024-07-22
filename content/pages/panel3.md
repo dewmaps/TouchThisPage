@@ -12,7 +12,7 @@ If you are able to print the objects, compare the feel of Boston Line Type to th
 
 *The sketchfab interface below contains additional hidden links picked up by screen readers. The starting element is a link and ending element is the text "to rotate."*
 
-<div class="sketchfab-embed-wrapper"> <iframe title="A diagram of magnified snowflakes" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/4a83c1dcd34147e783c7ec457301ca51/embed?camera=0"> </iframe> </div>
+{{< sketchfab "https://sketchfab.com/models/4a83c1dcd34147e783c7ec457301ca51/embed?camera=0" >}}
 
 ## Description of the Snowflakes
 
@@ -24,4 +24,4 @@ Henry Stephens had been deaf for twenty-seven years when he lost his sight. With
 
 “For the first three months I labored diligently, early and late, upon the easy spelling and reading lessons in the primer, often spending entire days and evenings in fingering a single page…[I managed] to master the Morning and Evening Services and the Litany of the Protestant Episcopal Church, with which I was not familiar, in about eighteen months… There were times when, elated with my success, I gave loud-voiced utterances to expressions of pure delight. There were many times of discouragement, when I felt that all my efforts were useless.”
 
-Up next: Samuel Gridley Howe: Hero or Villain? 
+Up next: [Samuel Gridley Howe: Hero or Villain?]({{< relref "/pages/panel4">}}) 

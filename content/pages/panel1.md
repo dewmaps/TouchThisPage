@@ -10,8 +10,7 @@ On each page of the exhibition, you will find a 3D reproduction along with a lab
 
 *The sketchfab interface below contains additional hidden links picked up by screen readers. The starting element is a link and ending element is the text "to rotate."*
 
-<div class="sketchfab-embed-wrapper"> <iframe title="New Testament" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/bd60f45d269a41028e9069db8d5b03de/embed?camera=0"> </iframe> </div>
-
+{{< sketchfab "https://sketchfab.com/models/bd60f45d269a41028e9069db8d5b03de/embed?camera=0" >}}
 
 ## Description of the New Testament Page
 
@@ -26,4 +25,4 @@ Benjamin Bowen was one Perkins’s first pupils. Having lost his sight as an inf
 
 >“The books which the blind can read themselves, and especially the Bible, furnish benefits that can never be calculated. They enable them to pass usefully many an hour which would else be spent in ennui and listlessness, or in repining at a fate to which they ought to be resigned.”
 
-Up next: Samuel Gridley Howe and Universal Design 
+Up next: [Samuel Gridley Howe and Universal Design]({{< relref "/pages/panel2">}}) 

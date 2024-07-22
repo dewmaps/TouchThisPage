@@ -6,7 +6,7 @@ Although universal design is a mid-twentieth century concept, Samuel Gridley How
 
 *The sketchfab interface below contains additional hidden links picked up by screen readers. The starting element is a link and ending element is the text "to rotate."*
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Eclipse of the Moon" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/bbf91b5938ed4de6b728055c1136ff0e/embed?camera=0"> </iframe> </div>
+{{< sketchfab "https://sketchfab.com/models/bbf91b5938ed4de6b728055c1136ff0e/embed?camera=0" >}}
 
 ## Description of the Eclipse of the Moon
 
@@ -21,4 +21,4 @@ In designing Boston Line Type and his embossed diagrams, Samuel Gridley Howe wro
 
 If you are able to print or touch these pages, compare how they feel to you with how the blind and low-vision readers from the nineteenth century describe using raised-print books. 
 
-Up next: Reading Raised Print 
+Up next: [Reading Raised Print]({{< relref "/pages/panel3">}}) 

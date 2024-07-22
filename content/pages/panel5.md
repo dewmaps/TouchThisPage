@@ -6,7 +6,7 @@ The first eighty years of tactile reading in the US, therefore, took place in pr
 
 *The sketchfab interface below contains additional hidden links picked up by screen readers. The starting element is a link and ending element is the text "to rotate."*
 
-<div class="sketchfab-embed-wrapper"> <iframe title="The Lord's Prayer" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/db2bc015093244b0b72b9a5b7c28c13a/embed?camera=0"> </iframe> </div>
+{{< sketchfab "https://sketchfab.com/models/db2bc015093244b0b72b9a5b7c28c13a/embed?camera=0" >}}
 
 ## Description of Embossed Specimens                 
 
@@ -26,4 +26,4 @@ Many disagreed. Just one year later, France officially adopted braille.
 
 Yet, fears about so-called "arbitrary" type persist today. Since the 1970s braille literacy has sharply declined due to not just advances in audio technology but also changing educational practices. In 2009, the National Federation of the Blind worried that braille was becoming dangerously stigmatized and that many parents and educators feared that braille “isolates and stigmatizes students from peers who read print.”
 
-Up next: Tactile Reading Today—and Tomorrow 
+Up next: [Tactile Reading Today—and Tomorrow]({{< relref "/pages/panel6">}}) 
