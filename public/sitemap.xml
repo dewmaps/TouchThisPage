@@ -14,31 +14,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/pages/about/</loc>
+    <loc>http://localhost:1313/panel1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/pages/panel1/</loc>
+    <loc>http://localhost:1313/panel2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/pages/panel2/</loc>
+    <loc>http://localhost:1313/panel3/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/pages/panel3/</loc>
+    <loc>http://localhost:1313/panel4/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/pages/panel4/</loc>
+    <loc>http://localhost:1313/panel5/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/pages/panel5/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/pages/panel6/</loc>
+    <loc>http://localhost:1313/panel6/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -47,10 +43,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/pages/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
