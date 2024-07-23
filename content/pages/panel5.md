@@ -26,4 +26,4 @@ Many disagreed. Just one year later, France officially adopted braille.
 
 Yet, fears about so-called "arbitrary" type persist today. Since the 1970s braille literacy has sharply declined due to not just advances in audio technology but also changing educational practices. In 2009, the National Federation of the Blind worried that braille was becoming dangerously stigmatized and that many parents and educators feared that braille “isolates and stigmatizes students from peers who read print.”
 
-Up next: [Tactile Reading Today—and Tomorrow]({{< relref "/pages/panel6">}}) 
+Up next: [Tactile Reading Today—and Tomorrow](/pages/panel6) 

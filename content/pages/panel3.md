@@ -24,4 +24,4 @@ Henry Stephens had been deaf for twenty-seven years when he lost his sight. With
 
 “For the first three months I labored diligently, early and late, upon the easy spelling and reading lessons in the primer, often spending entire days and evenings in fingering a single page…[I managed] to master the Morning and Evening Services and the Litany of the Protestant Episcopal Church, with which I was not familiar, in about eighteen months… There were times when, elated with my success, I gave loud-voiced utterances to expressions of pure delight. There were many times of discouragement, when I felt that all my efforts were useless.”
 
-Up next: [Samuel Gridley Howe: Hero or Villain?]({{< relref "/pages/panel4">}}) 
+Up next: [Samuel Gridley Howe: Hero or Villain?](/pages/panel4) 

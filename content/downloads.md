@@ -3,7 +3,7 @@
 Download the models and the text for the exhibition on this page.
 
 - Welcome to "Touch This Page!"
-    - [Printing model for the New Testament]("/img/NewTestament.zip")
+    - Printing model for the New Testament
     - Text file for Panel 1 
 -  Samuel Gridley Howe and Universal Design
     - Printing model for the Exlipse of the Moon

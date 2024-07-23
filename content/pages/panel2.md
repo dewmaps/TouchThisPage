@@ -21,4 +21,4 @@ In designing Boston Line Type and his embossed diagrams, Samuel Gridley Howe wro
 
 If you are able to print or touch these pages, compare how they feel to you with how the blind and low-vision readers from the nineteenth century describe using raised-print books. 
 
-Up next: [Reading Raised Print]({{< relref "/pages/panel3">}}) 
+Up next: [Reading Raised Print](/pages/panel3) 

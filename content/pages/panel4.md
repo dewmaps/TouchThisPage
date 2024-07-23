@@ -20,4 +20,4 @@ After graduating from Perkins, Harriet Gamage returned to her family in New Orle
 
 “As I am in a great measure indebted to your noble institution for the faculties I may enjoy I will name the branches I am at present imparting. Reading, Spelling, Arithmetic, History, Geography, the maps, such as the seeing use, which I am enabled to explain from a retentive memory, and a reference to my own which are so beautifully embossed.”
 
-Up next: [The Cost of Success]({{< relref "/pages/panel5">}}) 
+Up next: [The Cost of Success](/pages/panel5) 
