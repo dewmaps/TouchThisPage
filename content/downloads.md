@@ -3,20 +3,20 @@
 Download the models and the text for the exhibition on this page.
 
 - Welcome to "Touch This Page!"
-    - Printing model for the New Testament
-    - Text file for Panel 1 
+    - [Printing model for the New Testament](/files/NewTestament.zip)
+    - [Text file for Panel 1](/files/panel1.txt) 
 -  Samuel Gridley Howe and Universal Design
-    - Printing model for the Exlipse of the Moon
-    - Text file for Panel 2 
+    - [Printing model for the Eclipse of the Moon](/files/EclipseOfTheMoon.zip)
+    - [Text file for Panel 2 ](/files/panel2.txt) 
 - Reading Raised Print
-    - Printing model for the Snowflakes
-    - Text file for Panel 3 
+    - [Printing model for the Snowflakes](/files/Snowflakes.zip)
+    - [Text file for Panel 3 ](/files/panel3.txt) 
 - Samuel Gridley Howe: Hero or Villain?
-    - Printing model for the Map of Massachusetts
-    - Text file for Panel 4 
+    - [Printing model for the Map of Massachusetts](/files/MapMassachusetts.zip)
+    - [Text file for Panel 4](/files/panel4.txt)  
 - The Cost of Success
-    - Printing model for the Lord's Prayer in Moon Type
-    - Text file for Panel 5 
+    - [Printing model for the Lord's Prayer in Moon Type](/files/MoonType.zip)
+    - [Text file for Panel 5](/files/panel5.txt)  
 - Tactile Reading Today—and Tomorrow
-    - Printing model for the soliloquy from *Hamlet*
-    - Text file for Panel 6 
+    - [Printing model for the soliloquy from *Hamlet*](/files/Hamlet.zip)
+    - [Text file for Panel 6 ](/files/panel6.txt) 
