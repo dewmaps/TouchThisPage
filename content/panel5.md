@@ -1,4 +1,8 @@
-# The Cost of Success
++++
+title = 'The Cost of Success'
+omit_header_text = true
+featured_image = ""
++++
 
 Howe’s success had costs even for the blind community. Boston Line Type's success hindered the popularity of braille, which was widely adopted in the US decades later than in Britain and France. The amount of time and money that Perkins and other American schools had invested into Boston Line Type made them resistant to adopting a new system. Boston Line Type was, however, much harder to learn than braille, and only braille allowed individuals with visual impairments to read and write tactilely.
 

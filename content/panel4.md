@@ -1,4 +1,8 @@
-# Samuel Gridley Howe: Hero or Villain?
++++
+title = 'Samuel Gridley Howe: Hero or Villain?'
+omit_header_text = true
+featured_image = ""
++++
 
 Howe is celebrated for making books accessible to blind and low-vision readers, but he is not universally revered. Howe, educator Horace Mann, and telephone-inventor Alexander Graham Bell actively campaigned against sign language because they considered it “arbitrary” like braille. Howe favored lip reading and speaking instead because he believed they would help Deaf Americans integrate into a society dominated by hearing persons. Howe was interested in universal forms of communication that individuals with disabilities and nondisabled individuals could share, but his efforts made him a hero in some histories and a villain in others.
 

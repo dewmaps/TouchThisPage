@@ -1,4 +1,8 @@
-# Tactile Reading Today—and Tomorrow
++++
+title = 'Tactile Reading Today—and Tomorrow'
+omit_header_text = true
+featured_image = ""
++++
 
 Digital platforms are changing the senses of reading for everyone. Our tactile learning extends to books, smart phones, and computers. Although visual readers tend to think of reading as only visual, reading almost always involves a combination of senses. How we make sense of the ways we read depends on how we pay attention to our senses.
 
@@ -21,3 +25,5 @@ Like Keller, you may have felt moved by Shakespeare’s words through the voice 
 Helen Keller arrived at Perkins with her teacher Anne Sullivan in 1888. Keller, who was deafblind, was an avid reader and prominent advocate for disability rights.
 
 Even before she got to Perkins, Keller had begun learning Boston Line Type. She read her first books “over and over, until the words were so worn and pressed I could scarcely make them out.” While Sullivan sometimes read to Keller by spelling words into her hand, Keller “preferred reading myself.” As a child Keller spent hours each day in the Perkins library. She described the literature that she read in raised print as her “Utopia ... No barriers of the senses shut me out from the sweet, gracious discourse of my book-friends.”
+
+Up next: [Download and print the models yourself!](/downloads) 

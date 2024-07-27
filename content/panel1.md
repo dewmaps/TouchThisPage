@@ -1,4 +1,8 @@
-# Welcome to "Touch This Page!"
++++
+title = 'Welcome to "Touch This Page!"'
+omit_header_text = true
+featured_image = ""
++++
 
 How are you reading these words?
 
@@ -25,4 +29,4 @@ Benjamin Bowen was one Perkins's first pupils. Having lost his sight as an infan
 
 >"The books which the blind can read themselves, and especially the Bible, furnish benefits that can never be calculated. They enable them to pass usefully many an hour which would else be spent in ennui and listlessness, or in repining at a fate to which they ought to be resigned."
 
-Up next: [Samuel Gridley Howe and Universal Design](/pages/panel2) 
+Up next: [Samuel Gridley Howe and Universal Design](/panel2) 

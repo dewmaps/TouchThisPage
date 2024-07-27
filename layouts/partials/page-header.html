@@ -18,8 +18,13 @@
   </header>
 {{ else }}
   <header>
-    <div class="{{ .Site.Params.background_color_class | default "bg-black" }}">
+    <div class="orange-header">
       {{ partial "site-navigation.html" . }}
     </div>
+    <style>
+      .orange-header {
+        background-color: #e37f00;
+      }
+    </style>
   </header>
 {{ end }}

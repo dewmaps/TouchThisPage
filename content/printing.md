@@ -1,4 +1,8 @@
-# How to Download and Print 3D Text Objects
++++
+title = 'How to Download and Print 3D Text Objects'
+omit_header_text = true
+featured_image = ""
++++
 
 ## Overview
 

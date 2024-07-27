@@ -1,4 +1,8 @@
-# Reading Raised Print
++++
+title = 'Reading Raised Print'
+omit_header_text = true
+featured_image = ""
++++
 
 Although Howe designed pages for all to read, he did not think reading Boston Line would be easy. Howe challenged a sighted colleague to touch an embossed page and say if it “feels like any thing you ever saw.” Learning to read raised print took a lot of practice. Howe suggested that a trained student could read tactilely at a third the speed of a sighted person reading aloud.
 

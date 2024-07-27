@@ -1,4 +1,8 @@
-# About Us
++++
+title = 'About Us'
+omit_header_text = true
+featured_image = ""
++++
 
 ## "Touch This Page!" - An Introduction
 

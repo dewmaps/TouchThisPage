@@ -1,4 +1,8 @@
-# Samuel Gridley Howe and Universal Design
++++
+title = 'Samuel Gridley Howe and Universal Design'
+omit_header_text = true
+featured_image = ""
++++ 
 
 The disability rights movement coined "universal design" as the aspirational ideal that describes a world built for everyone. Certain designs—like stairs or ink-printed pages—define people who cannot access them as disabled. But the world can be designed differently.
 

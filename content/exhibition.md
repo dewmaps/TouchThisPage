@@ -2,6 +2,8 @@
 +++
 title = 'Overview of the Exhibition'
 weight = 10
+omit_header_text = true
+featured_image = ""
 +++
 
 ## [Welcome to “Touch This Page!”](/panel1)

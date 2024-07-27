@@ -1,6 +1,10 @@
-# Downloads
++++
+title = 'Downloads'
+omit_header_text = true
+featured_image = ""
++++
 
-Download the models and the text for the exhibition on this page.
+The models and the text for the exhibition are all available on this page. For those new to 3D printing, we have [some tips on printing from these files](/printing).
 
 - Welcome to "Touch This Page!"
     - [Printing model for the New Testament](/files/NewTestament.zip)
@@ -20,3 +24,4 @@ Download the models and the text for the exhibition on this page.
 - Tactile Reading Today—and Tomorrow
     - [Printing model for the soliloquy from *Hamlet*](/files/Hamlet.zip)
     - [Text file for Panel 6 ](/files/panel6.txt) 
+
