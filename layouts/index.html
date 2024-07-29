@@ -5,22 +5,47 @@
 
       <div class="pa3 pa4-ns w-100 w-70-ns center">
 
-
-        <section class="w-100 mw8">
-
-            <div class="relative w-100 mb4">
-            </div>
-
-        </section>
-
-
+          <div class="center cf pv5 ph3 ph4-ns mw7">
+            <h2>Sponsors</h2>
+          </div>
+        {{ $logo1 := resources.Get "images/NU_Wordmark_CMYK_Rv_0.png" }}
+        {{ $logo2 := resources.Get "images/hl_horizontal_rgb_black.png" }}
+        {{ $logo3 := resources.Get "images/Perkins_Logo_0.png" }}
+        {{ $logo4 := resources.Get "images/EnablingLogo_Horizontal5_0.png" }}
+        {{ $logo5 := resources.Get "images/NU_Library_MonoNU_03_RB.png" }}
         <section class="w-100">
-
-
+          <div class="row-logos">
+            <div class="column-logos">
+              <img src="{{ $logo1.RelPermalink}}" alt="Northeastern Logo" style="width:100%">
+            </div>
+            <div class="column-logos">
+              <img src="{{ $logo2.RelPermalink}}" alt="Harvard Library Logo" style="width:100%">
+            </div>
+            <div class="column-logos">
+              <img src="{{ $logo3.RelPermalink}}" alt="Perkins Logo" style="width:100%">
+            </div>
+            <div class="column-logos">
+              <img src="{{ $logo4.RelPermalink}}" alt="Enabling Engineering Logo" style="width:100%">
+            </div>
+            <div class="column-logos">
+              <img src="{{ $logo5.RelPermalink}}" alt="Northeastern Library Logo" style="width:100%">
+            </div>
+          </div> 
           </section>
-
-
         </div>
+  <style>
+    .column-logos {
+    float: left;
+    width: 200px;
+    padding: 5px;
+    }
 
+  /* Clear floats after image containers */
+  .row-logos::after {
+    content: "";
+    clear: both;
+    display: table;
+    }
+  </style>
 {{end}}
     
