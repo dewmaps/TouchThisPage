@@ -1,5 +1,5 @@
 title = "Touch This Page! Making Sense of the Ways We Read"
-baseURL = "https://touchthispage.com"
+baseURL = "https://dewmaps.github.io/touchThisPage/"
 languageCode = "en-us"
 theme = 'ananke'
 # resourceDir = "../resources"
