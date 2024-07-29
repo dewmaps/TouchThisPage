@@ -7,9 +7,7 @@ featured_image = ""
 The models and the text for the exhibition are all available on this page. For those new to 3D printing, we have [some tips on printing from these files](printing).
 
 - Welcome to "Touch This Page!"
-    {{ with resources.Get "stl/NewTestament.zip" }}
-    [Printing model for the New Testament]({{ .RelPermalink }})
-    {{ end }}
+    - {{ < linkToFile "stl/NewTestament.zip" "Printing model for the New Testament" >}}
     - (files/NewTestament.zip)
     - [Text file for Panel 1](/files/panel1.txt) 
 -  Samuel Gridley Howe and Universal Design
