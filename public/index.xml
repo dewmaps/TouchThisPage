@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Touch This Page! Making Sense of the Ways We Read</title>
-    <link>https://touchthispage.com/</link>
+    <link>http://localhost:1313/touchThisPage/</link>
     <description>Recent content on Touch This Page! Making Sense of the Ways We Read</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://touchthispage.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/touchThisPage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overview of the Exhibition</title>
-      <link>https://touchthispage.com/exhibition/</link>
+      <link>http://localhost:1313/touchThisPage/exhibition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://touchthispage.com/exhibition/</guid>
+      <guid>http://localhost:1313/touchThisPage/exhibition/</guid>
       <description>Welcome to “Touch This Page!” How are you reading these words?&#xA;Looking at a screen? Feeling braille? Listening to a voice?&#xA;Samuel Gridley Howe and Universal Design The disability rights movement coined “universal design” as the aspirational ideal that describes a world built for everyone. Certain designs—like stairs or ink-printed pages—define people who cannot access them as disabled. But the world can be designed differently.&#xA;Reading Raised Print Although Howe designed pages for all to read, he did not think reading Boston Line would be easy.</description>
     </item>
     <item>
       <title>About Us</title>
-      <link>https://touchthispage.com/about/</link>
+      <link>http://localhost:1313/touchThisPage/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://touchthispage.com/about/</guid>
+      <guid>http://localhost:1313/touchThisPage/about/</guid>
       <description>&amp;ldquo;Touch This Page!&amp;rdquo; - An Introduction &amp;ldquo;Touch This Page! Making Sense of the Ways We Read&amp;rdquo; is an exhibition about multisensory experiences of reading. Its central objects are 3D replicas from historical books for blind and low-vision readers printed between 1830 and 1910. Most of these archival materials live at the Samuel P. Hayes Research Library at the Perkins School for the Blind. We hope that, by experiencing these 3D-printed objects, you will reflect on how touch, sight, and sound contribute to experiences of reading—historically and today.</description>
     </item>
     <item>
       <title>Downloads</title>
-      <link>https://touchthispage.com/downloads/</link>
+      <link>http://localhost:1313/touchThisPage/downloads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://touchthispage.com/downloads/</guid>
-      <description>The models and the text for the exhibition are all available on this page. For those new to 3D printing, we have some tips on printing from these files.&#xA;Welcome to &amp;ldquo;Touch This Page!&amp;rdquo; Printing model for the New Testament Text file for Panel 1 Samuel Gridley Howe and Universal Design Printing model for the Eclipse of the Moon Text file for Panel 2 Reading Raised Print Printing model for the Snowflakes Text file for Panel 3 Samuel Gridley Howe: Hero or Villain?</description>
+      <guid>http://localhost:1313/touchThisPage/downloads/</guid>
+      <description>The models and the text for the exhibition are all available on this page. For those new to 3D printing, we have some tips on printing from these files.&#xA;Welcome to &amp;ldquo;Touch This Page!&amp;rdquo; {{ &amp;lt; link_to_file &amp;ldquo;stl/NewTestament.zip&amp;rdquo; &amp;ldquo;Printing model for the New Testament&amp;rdquo; &amp;gt;}} (files/NewTestament.zip) Text file for Panel 1 Samuel Gridley Howe and Universal Design Printing model for the Eclipse of the Moon Text file for Panel 2 Reading Raised Print Printing model for the Snowflakes Text file for Panel 3 Samuel Gridley Howe: Hero or Villain?</description>
     </item>
     <item>
       <title>How to Download and Print 3D Text Objects</title>
-      <link>https://touchthispage.com/printing/</link>
+      <link>http://localhost:1313/touchThisPage/printing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://touchthispage.com/printing/</guid>
+      <guid>http://localhost:1313/touchThisPage/printing/</guid>
       <description>Overview This document serves as an instructional write-up explaining how to download and 3D print text objects. The only software needed is a 3D printer slicing application. This instructional will be specifically for the free software, Ultimaker Cura, version 3.4.1. Note, other versions of Cura or other slicing software packages may not share the exact same user interface, but the general steps for 3D printing a digital file should be applicable.</description>
     </item>
     <item>
       <title>Reading Raised Print</title>
-      <link>https://touchthispage.com/panel3/</link>
+      <link>http://localhost:1313/touchThisPage/panel3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://touchthispage.com/panel3/</guid>
+      <guid>http://localhost:1313/touchThisPage/panel3/</guid>
       <description>Although Howe designed pages for all to read, he did not think reading Boston Line would be easy. Howe challenged a sighted colleague to touch an embossed page and say if it “feels like any thing you ever saw.” Learning to read raised print took a lot of practice. Howe suggested that a trained student could read tactilely at a third the speed of a sighted person reading aloud.&#xA;Boston Line Type was imperfect but hugely successful.</description>
     </item>
     <item>
       <title>Samuel Gridley Howe and Universal Design</title>
-      <link>https://touchthispage.com/panel2/</link>
+      <link>http://localhost:1313/touchThisPage/panel2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://touchthispage.com/panel2/</guid>
+      <guid>http://localhost:1313/touchThisPage/panel2/</guid>
       <description>The disability rights movement coined &amp;ldquo;universal design&amp;rdquo; as the aspirational ideal that describes a world built for everyone. Certain designs—like stairs or ink-printed pages—define people who cannot access them as disabled. But the world can be designed differently.&#xA;Although universal design is a mid-twentieth century concept, Samuel Gridley Howe, first director of the Perkins School for the Blind, was after something similar: a page anyone could read. Braille already existed, and Howe had seen it on a trip to Paris.</description>
     </item>
     <item>
       <title>Samuel Gridley Howe: Hero or Villain?</title>
-      <link>https://touchthispage.com/panel4/</link>
+      <link>http://localhost:1313/touchThisPage/panel4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://touchthispage.com/panel4/</guid>
+      <guid>http://localhost:1313/touchThisPage/panel4/</guid>
       <description>Howe is celebrated for making books accessible to blind and low-vision readers, but he is not universally revered. Howe, educator Horace Mann, and telephone-inventor Alexander Graham Bell actively campaigned against sign language because they considered it “arbitrary” like braille. Howe favored lip reading and speaking instead because he believed they would help Deaf Americans integrate into a society dominated by hearing persons. Howe was interested in universal forms of communication that individuals with disabilities and nondisabled individuals could share, but his efforts made him a hero in some histories and a villain in others.</description>
     </item>
     <item>
       <title>Tactile Reading Today—and Tomorrow</title>
-      <link>https://touchthispage.com/panel6/</link>
+      <link>http://localhost:1313/touchThisPage/panel6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://touchthispage.com/panel6/</guid>
+      <guid>http://localhost:1313/touchThisPage/panel6/</guid>
       <description>Digital platforms are changing the senses of reading for everyone. Our tactile learning extends to books, smart phones, and computers. Although visual readers tend to think of reading as only visual, reading almost always involves a combination of senses. How we make sense of the ways we read depends on how we pay attention to our senses.&#xA;Among our senses, touch, it turns out, is the most broadly accessible—used by individuals with visual and auditory impairments as well as by nondisabled people.</description>
     </item>
     <item>
       <title>The Cost of Success</title>
-      <link>https://touchthispage.com/panel5/</link>
+      <link>http://localhost:1313/touchThisPage/panel5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://touchthispage.com/panel5/</guid>
+      <guid>http://localhost:1313/touchThisPage/panel5/</guid>
       <description>Howe’s success had costs even for the blind community. Boston Line Type&amp;rsquo;s success hindered the popularity of braille, which was widely adopted in the US decades later than in Britain and France. The amount of time and money that Perkins and other American schools had invested into Boston Line Type made them resistant to adopting a new system. Boston Line Type was, however, much harder to learn than braille, and only braille allowed individuals with visual impairments to read and write tactilely.</description>
     </item>
     <item>
       <title>Welcome to &#34;Touch This Page!&#34;</title>
-      <link>https://touchthispage.com/panel1/</link>
+      <link>http://localhost:1313/touchThisPage/panel1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://touchthispage.com/panel1/</guid>
+      <guid>http://localhost:1313/touchThisPage/panel1/</guid>
       <description>How are you reading these words?&#xA;Looking at a screen? Feeling braille? Listening to a voice?&#xA;&amp;ldquo;Touch This Page!&amp;rdquo; asks you to think differently about reading. Each station offers a 3D reproduction of a page in a style invented for sighted and blind readers in the 1830s and 1840s. Unlike braille, these pages of raised text use or lightly adapt the Roman alphabet to make the words more easily legible to visual readers.</description>
     </item>
   </channel>

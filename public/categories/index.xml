@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Touch This Page! Making Sense of the Ways We Read</title>
-    <link>https://touchthispage.com/categories/</link>
+    <link>http://localhost:1313/touchThisPage/categories/</link>
     <description>Recent content in Categories on Touch This Page! Making Sense of the Ways We Read</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://touchthispage.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/touchThisPage/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
