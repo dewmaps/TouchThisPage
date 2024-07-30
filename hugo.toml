@@ -31,20 +31,20 @@ name = ""
 url = ""
 
 
-[menus]
-  [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-  [[menus.main]]
-    name = 'Exhibition'
-    pageRef = '/exhibition/'
-    weight = 20
-  [[menus.main]]
-    name = 'Downloads'
-    pageRef = '/downloads'
-    weight = 30
-  [[menus.main]]
-    name = 'About'
-    pageRef = '/about'
-    weight = 40
+# [menus]
+#  [[menus.main]]
+#    name = 'Home'
+#    pageRef = '/'
+#    weight = 10
+#  [[menus.main]]
+#    name = 'Exhibition'
+#    pageRef = '/exhibition/'
+#    weight = 20
+#  [[menus.main]]
+#    name = 'Downloads'
+#    pageRef = '/downloads'
+#    weight = 30
+#  [[menus.main]]
+#    name = 'About'
+#    pageRef = '/about'
+#    weight = 40
