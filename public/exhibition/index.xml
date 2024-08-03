@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exhibition on Touch This Page! Making Sense of the Ways We Read</title>
-    <link>http://localhost:1313/touchThisPage/exhibition/</link>
+    <link>https://dewmaps.github.io/touchThisPage/exhibition/</link>
     <description>Recent content in Exhibition on Touch This Page! Making Sense of the Ways We Read</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/touchThisPage/exhibition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dewmaps.github.io/touchThisPage/exhibition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading Raised Print</title>
-      <link>http://localhost:1313/touchThisPage/exhibition/panels/panel3/</link>
+      <link>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/touchThisPage/exhibition/panels/panel3/</guid>
+      <guid>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel3/</guid>
       <description>Although Howe designed pages for all to read, he did not think reading Boston Line would be easy. Howe challenged a sighted colleague to touch an embossed page and say if it “feels like any thing you ever saw.” Learning to read raised print took a lot of practice. Howe suggested that a trained student could read tactilely at a third the speed of a sighted person reading aloud.&#xA;Boston Line Type was imperfect but hugely successful.</description>
     </item>
     <item>
       <title>Samuel Gridley Howe and Universal Design</title>
-      <link>http://localhost:1313/touchThisPage/exhibition/panels/panel2/</link>
+      <link>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/touchThisPage/exhibition/panels/panel2/</guid>
+      <guid>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel2/</guid>
       <description>The disability rights movement coined &amp;ldquo;universal design&amp;rdquo; as the aspirational ideal that describes a world built for everyone. Certain designs—like stairs or ink-printed pages—define people who cannot access them as disabled. But the world can be designed differently.&#xA;Although universal design is a mid-twentieth century concept, Samuel Gridley Howe, first director of the Perkins School for the Blind, was after something similar: a page anyone could read. Braille already existed, and Howe had seen it on a trip to Paris.</description>
     </item>
     <item>
       <title>Samuel Gridley Howe: Hero or Villain?</title>
-      <link>http://localhost:1313/touchThisPage/exhibition/panels/panel4/</link>
+      <link>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/touchThisPage/exhibition/panels/panel4/</guid>
+      <guid>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel4/</guid>
       <description>Howe is celebrated for making books accessible to blind and low-vision readers, but he is not universally revered. Howe, educator Horace Mann, and telephone-inventor Alexander Graham Bell actively campaigned against sign language because they considered it “arbitrary” like braille. Howe favored lip reading and speaking instead because he believed they would help Deaf Americans integrate into a society dominated by hearing persons. Howe was interested in universal forms of communication that individuals with disabilities and nondisabled individuals could share, but his efforts made him a hero in some histories and a villain in others.</description>
     </item>
     <item>
       <title>Tactile Reading Today—and Tomorrow</title>
-      <link>http://localhost:1313/touchThisPage/exhibition/panels/panel6/</link>
+      <link>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/touchThisPage/exhibition/panels/panel6/</guid>
+      <guid>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel6/</guid>
       <description>Digital platforms are changing the senses of reading for everyone. Our tactile learning extends to books, smart phones, and computers. Although visual readers tend to think of reading as only visual, reading almost always involves a combination of senses. How we make sense of the ways we read depends on how we pay attention to our senses.&#xA;Among our senses, touch, it turns out, is the most broadly accessible—used by individuals with visual and auditory impairments as well as by nondisabled people.</description>
     </item>
     <item>
       <title>The Cost of Success</title>
-      <link>http://localhost:1313/touchThisPage/exhibition/panels/panel5/</link>
+      <link>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/touchThisPage/exhibition/panels/panel5/</guid>
+      <guid>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel5/</guid>
       <description>Howe’s success had costs even for the blind community. Boston Line Type&amp;rsquo;s success hindered the popularity of braille, which was widely adopted in the US decades later than in Britain and France. The amount of time and money that Perkins and other American schools had invested into Boston Line Type made them resistant to adopting a new system. Boston Line Type was, however, much harder to learn than braille, and only braille allowed individuals with visual impairments to read and write tactilely.</description>
     </item>
     <item>
       <title>Welcome to &#34;Touch This Page!&#34;</title>
-      <link>http://localhost:1313/touchThisPage/exhibition/panels/panel1/</link>
+      <link>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/touchThisPage/exhibition/panels/panel1/</guid>
+      <guid>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel1/</guid>
       <description>How are you reading these words?&#xA;Looking at a screen? Feeling braille? Listening to a voice?&#xA;&amp;ldquo;Touch This Page!&amp;rdquo; asks you to think differently about reading. Each station offers a 3D reproduction of a page in a style invented for sighted and blind readers in the 1830s and 1840s. Unlike braille, these pages of raised text use or lightly adapt the Roman alphabet to make the words more easily legible to visual readers.</description>
     </item>
   </channel>

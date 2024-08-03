@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/touchThisPage/exhibition/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/exhibition/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/touchThisPage/about/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/touchThisPage/categories/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/touchThisPage/downloads/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/downloads/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/touchThisPage/downloads/printing/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/downloads/printing/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/touchThisPage/exhibition/panels/panel3/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel3/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/touchThisPage/exhibition/panels/panel2/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel2/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/touchThisPage/exhibition/panels/panel4/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel4/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/touchThisPage/exhibition/panels/panel6/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel6/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/touchThisPage/tags/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/touchThisPage/exhibition/panels/panel5/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel5/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/touchThisPage/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/touchThisPage/exhibition/panels/panel1/</loc>
+    <loc>https://dewmaps.github.io/touchThisPage/exhibition/panels/panel1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
