@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Downloads on Touch This Page! Making Sense of the Ways We Read</title>
-    <link>https://dewmaps.github.io/touchThisPage/downloads/</link>
+    <link>https://www.touchthispage.com/downloads/</link>
     <description>Recent content in Downloads on Touch This Page! Making Sense of the Ways We Read</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://dewmaps.github.io/touchThisPage/downloads/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.touchthispage.com/downloads/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Download and Print 3D Text Objects</title>
-      <link>https://dewmaps.github.io/touchThisPage/downloads/printing/</link>
+      <link>https://www.touchthispage.com/downloads/printing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dewmaps.github.io/touchThisPage/downloads/printing/</guid>
+      <guid>https://www.touchthispage.com/downloads/printing/</guid>
       <description>Overview This document serves as an instructional write-up explaining how to download and 3D print text objects. The only software needed is a 3D printer slicing application. This instructional will be specifically for the free software, Ultimaker Cura, version 3.4.1. Note, other versions of Cura or other slicing software packages may not share the exact same user interface, but the general steps for 3D printing a digital file should be applicable.</description>
     </item>
   </channel>
