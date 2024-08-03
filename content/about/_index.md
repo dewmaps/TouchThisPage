@@ -7,17 +7,30 @@ layout = "single"
 
 ## "Touch This Page!" - An Introduction
 
-"Touch This Page! Making Sense of the Ways We Read" is an exhibition about multisensory experiences of reading. Its central objects are 3D replicas from historical books for blind and low-vision readers printed between 1830 and 1910. Most of these archival materials live at the [Samuel P. Hayes Research Library at the Perkins School for the Blind](https://www.perkins.org/history/visit/research-library). We hope that, by experiencing these 3D-printed objects, you will reflect on how touch, sight, and sound contribute to experiences of reading—historically and today. Simultaneously, the story of these tactile pages guides you through a particular slice of disability history and current barriers to access understood through the principles of universal design.
+"Touch This Page!" has always been a hybrid project. We want to make these objects broadly available through physical and digital surrogates while providing digestible narratives to contexualize them within a shared experience of reading. 
 
-A pop-up style version of the exhibition was being hosted simultaneously at four locations during its initial launch: Harvard University’s [Lamont Library](https://library.harvard.edu/libraries/lamont), Northeastern University’s [Snell Library](https://library.northeastern.edu/ideas/about-snell-library/), the [Perkins School for the Blind](https://www.perkins.org/), and [Norman B. Leventhal Map and Education Center](https://www.leventhalmap.org/) at the Boston Public Library (at Copley Square). It ran from the week of January 28, 2019 through mid-April 2019. The exhibition was then also hosted at the [Watertown Free Public Library](https://watertownlib.org/) and NYU's [Bobst Library](https://library.nyu.edu/locations/elmer-holmes-bobst-library/). This web exhibition hosts all content from the physical exhibition including the files of the pages from the Perkins archive so that anyone with access to a 3D printer can reproduce the exhibition and its objects.
+As a pop-up style, physical exhibtion, "Touch This Page!" was designed to prioritize tactile engagment. The larger panels of text gave the braoder story of this specific form of inkless printing. Visitors could then reach into the exhibition's boxes to feel the objects. Additional text on panels that visitors could open from above the objects described the objects and quoted responses from students and alumni of Perkins. From the week of January 28, 2019 through mid-April 2019, the exhibition launched  simultaneously at four locations. 
 
-"Touch This Page!" is co-directed by [Sari Altschuler](https://cssh.northeastern.edu/faculty/sari-altschuler/) (Northeastern University) and [David Weimer](https://www.newberry.org/about/staff-directory) (Newberry Library) and undertaken in collaboration with [Dan Cohen](https://cssh.northeastern.edu/people/faculty/dan-cohen/) at the Northeastern Library, [Waleed Meleis](https://coe.northeastern.edu/people/meleis-waleed/) at the Northeastern University College of Engineering, and Kim Charlson, Jennifer Arnott, and Jen Hale at the Perkins School for the Blind.
+At Harvard University, it was in [Lamont Library](https://library.harvard.edu/libraries/lamont), arranged vertically down a hallway between bookshelves. 
+![The exhibition's three double-sided panels and object boxes set up vertically down the hallway](lamontLibrary.JPG "Lamont Library Installation")
+
+At Northeastern University, the exhibition greeted visitors at the main entry to [Snell Library](https://library.northeastern.edu/ideas/about-snell-library/).
+![Three men with backpacks engaging with the exhibition in a large atrium](northeasternFront.jpg "Snell Library Installation")
+
+At the [Perkins School for the Blind](https://www.perkins.org/), the exhibtion sat alongside other objects from the school's long history in their museum.
+![The exhibition's panels arranged horizontally with a case of Braille objects in the background](perkinsOpen.JPG "Perkins Museum Installation")
+
+And at [Norman B. Leventhal Map and Education Center](https://www.leventhalmap.org/) at the Boston Public Library (at Copley Square), it usherd people through the hallway and into their gallery space. The exhibition was subsequently hosted at the [Watertown Free Public Library](https://watertownlib.org/) and NYU's [Bobst Library](https://library.nyu.edu/locations/elmer-holmes-bobst-library/). The onset of the COVID pandemic curtailed our ability to send the exhibition to more sites.
+
+"Touch This Page!" is co-directed by [Sari Altschuler](https://cssh.northeastern.edu/faculty/sari-altschuler/) (Northeastern University) and [David Weimer](https://www.newberry.org/about/staff-directory) (Newberry Library). It was undertaken in collaboration with [Dan Cohen](https://cssh.northeastern.edu/people/faculty/dan-cohen/) at the Northeastern Library, [Waleed Meleis](https://coe.northeastern.edu/people/meleis-waleed/) at the Northeastern University College of Engineering, and Kim Charlson, Jennifer Arnott, and Jen Hale at the Perkins School for the Blind.
 
 ## News and Awards
 
-In 2019 *Touch This Page! won the [Library Company's inaugural Biennial Innovation Award](https://librarycompany.org/2019/10/01/innovation-prize-winners/). The project was then featured in the Library Company's podcast, [Talking in the Library](https://librarycompany.org/2020/01/31/talking-in-the-library-season-2-episode-5/).
+In 2019 "Touch This Page!" won the [Library Company's inaugural Biennial Innovation Award](https://librarycompany.org/2019/10/01/innovation-prize-winners/). The project was then featured in the Library Company's podcast, [Talking in the Library](https://librarycompany.org/2020/01/31/talking-in-the-library-season-2-episode-5/).
 
 Andrew Leland worked closely with us and recorded [The Universal Page](https://99percentinvisible.org/episode/the-universal-page/), an episode of [99% Invisible](https://99percentinvisible.org/), at the project's symposium in 2019.  
+
+The exhition was reviewed by [Madeline J. Williams in *American Quarterly*](https://muse.jhu.edu/article/744977) and by [Sara Dean in *The Public Historian*](https://www.jstor.org/stable/26908891).  
 
 ## Artefacts
 

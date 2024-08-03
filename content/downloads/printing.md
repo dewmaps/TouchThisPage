@@ -3,7 +3,6 @@ title = 'How to Download and Print 3D Text Objects'
 omit_header_text = true
 featured_image = ""
 layout = "single"
-slug = "printing"
 +++
 
 ## Overview
