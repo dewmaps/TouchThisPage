@@ -28,7 +28,9 @@ And at [Norman B. Leventhal Map and Education Center](https://www.leventhalmap.o
 
 In 2019 "Touch This Page!" won the [Library Company's inaugural Biennial Innovation Award](https://librarycompany.org/2019/10/01/innovation-prize-winners/). The project was then featured in the Library Company's podcast, [Talking in the Library](https://librarycompany.org/2020/01/31/talking-in-the-library-season-2-episode-5/).
 
-Andrew Leland worked closely with us and recorded [The Universal Page](https://99percentinvisible.org/episode/the-universal-page/), an episode of [99% Invisible](https://99percentinvisible.org/), at the project's symposium in 2019.  
+"Touch This Page!" received the [2019-2020 Public Disability History Award](https://dishist.org/?page_id=1230) from the Disability History Association. 
+
+[Andrew Leland](https://www.andrewleland.org) worked closely with us and recorded [The Universal Page](https://99percentinvisible.org/episode/the-universal-page), an episode of [99% Invisible](https://99percentinvisible.org/), at the project's symposium in 2019.  
 
 The exhition was reviewed by [Madeline J. Williams in *American Quarterly*](https://muse.jhu.edu/article/744977) and by [Sara Dean in *The Public Historian*](https://www.jstor.org/stable/26908891).  
 
